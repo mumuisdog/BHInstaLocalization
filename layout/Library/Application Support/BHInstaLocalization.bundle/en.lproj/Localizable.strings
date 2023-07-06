@@ -1,0 +1,55 @@
+/* Headers */
+"FEED" = "FEED";
+"SAVE MEDIA" = "SAVE MEDIA";
+"STORY AND DIRECT" = "STORY AND DIRECT";
+"SECURITY" = "SECURITY";
+
+/* Feed */
+"Hide Ads" = "No ads";
+"Remove all Ads from Instagram app" = "Removes in-app ads";
+"No suggested post" = "No suggested posts";
+"Remove suggested posts from the feed" = "Removes suggested posts block in the feed";
+"Show Like count" = "Show like count";
+"Show like count in the post" = "Forcefully displays like count in the posts";
+"Confirm like" = "Like confirmation";
+"Show alert when you click the like button to confirm the like" = "Requires confirmation before performing a like action";
+"Copy description" = "Copy caption text";
+"Copy the post description by long press" = "Enables post description copying by long press";
+
+/* Save Media */
+"Download Videos" = "Download media";
+"Download Videos by log press in any video you want." = "Enables media downloading by long press";
+"Save profile image" = "Save profile picture";
+"Save profile image by long press." = "Enables profile picture downloading by long press";
+
+/* Story And Direct */
+"Keep deleted message" = "Keep unsent messages";
+"Keep deleted direct message on the chat." = "Keeps unsent messages in your chat";
+"Remove last seen" = "Read messages anonymously";
+"Remove last seen from the chat" = "Allows to read messages anonymously";
+"Remove screenshot alert" = "Disable screenshot alert";
+"Unlimited replay of once story" = "Unlimited media replay";
+"Unlimited replay of once story in direct chat" = "Allows to replay one-time-stories";
+"Disable Story Seen Receipt" = "Watch stories anonymously";
+
+/* Security */
+"Padlock" = "Padlock";
+"Lock Instagram with passcode" = "Lock Instagram with passcode";
+
+/* Developer */
+"Tip Jar" = "Tip Jar";
+"Donate Via Paypal" = "Donate via PayPal";
+
+/* Pop-ups And Other Stuff */
+"BHInsta settings" = "BHInsta settings";
+"BHInsta, Hi" = "Select an action";
+"Are you sure?" = "Are you sure?";
+"Yes" = "Yes";
+"NO" = "No";
+"Cancel" = "Cancel";
+"Download HD Profile Picture" = "Download profile picture";
+"Download Image - link 1 (HD)" = "Download image (HD)";
+"Download Image - link 2 (SD)" = "Download image (SD)";
+"Download video - link 1 (HD)" = "Download video (HD)";
+"Download video - link 2 (SD)" = "Download video (SD)";
+"Downloading" = "Downloading";

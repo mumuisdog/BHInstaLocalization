@@ -1,0 +1,55 @@
+/* Headers */
+"FEED" = "НОВОСТНАЯ ЛЕНТА";
+"SAVE MEDIA" = "СКАЧИВАНИЕ";
+"STORY AND DIRECT" = "ИСТОРИИ И СООБЩЕНИЯ";
+"SECURITY" = "БЕЗОПАСНОСТЬ";
+
+/* Feed */
+"Hide Ads" = "Удалить рекламу";
+"Remove all Ads from Instagram app" = "Удаляет рекламу в Instagram";
+"No suggested post" = "Отключить рекомендуемые посты";
+"Remove suggested posts from the feed" = "Отключает раздел «Рекомендуемое для вас», отображаемый в новостной ленте";
+"Show Like count" = "Отображать количество лайков";
+"Show like count in the post" = "Отображает точное количество лайков под постами";
+"Confirm like" = "Подтверждать лайк";
+"Show alert when you click the like button to confirm the like" = "Требует подтверждение лайка перед выполнением";
+"Copy description" = "Копирование описания";
+"Copy the post description by long press" = "Позволяет скопировать описание поста долгим нажатием";
+
+/* Save Media */
+"Download Videos" = "Загружать медиафайлы";
+"Download Videos by log press in any video you want." = "Позволяет загружать медиафайлы долгим нажатием";
+"Save profile image" = "Загружать фото профиля";
+"Save profile image by long press." = "Позволяет загружать фото профиля долгим нажатием";
+
+/* Story And Direct */
+"Keep deleted message" = "Хранить удаленные сообщения";
+"Keep deleted direct message on the chat." = "Оставляет удаленные сообщения в вашем чате";
+"Remove last seen" = "Нечиталка";
+"Remove last seen from the chat" = "Позволяет просматривать сообщения анонимно";
+"Remove screenshot alert" = "Не оповещать о скриншоте";
+"Unlimited replay of once story" = "Безлимитный просмотр";
+"Unlimited replay of once story in direct chat" = "Позволяет пересматривать одноразовые истории";
+"Disable Story Seen Receipt" = "Анонимный просмотр историй";
+
+/* Security */
+"Padlock" = "Блокировка паролем";
+"Lock Instagram with passcode" = "Требует ввода пароля перед запуском приложения";
+
+/* Developer */
+"Tip Jar" = "Угостить чашечкой кофе";
+"Donate Via Paypal" = "Задонатить на PayPal";
+
+/* Pop-ups And Other Stuff */
+"BHInsta settings" = "Настройки BHInsta";
+"BHInsta, Hi" = "Выберите действие";
+"Are you sure?" = "Вы уверены?";
+"Yes" = "Да";
+"NO" = "Нет";
+"Cancel" = "Отмена";
+"Download HD Profile Picture" = "Скачать фото профиля";
+"Download Image - link 1 (HD)" = "Скачать в высоком качестве";
+"Download Image - link 2 (SD)" = "Скачать в среднем качестве";
+"Download video - link 1 (HD)" = "Скачать в высоком качестве";
+"Download video - link 2 (SD)" = "Скачать в среднем качестве";
+"Downloading" = "Загрузка";

@@ -1,0 +1,9 @@
+Package: com.dvntm.bhinstalocalization
+Name: BHInstaLocalization
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Localization support for BHInsta tweak.
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
