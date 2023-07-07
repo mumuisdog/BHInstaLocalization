@@ -1,0 +1,58 @@
+/* Headers */
+"DEVELOPER" = "開發者";
+"FEED" = "動態";
+"SAVE MEDIA" = "儲存媒體";
+"STORY AND DIRECT" = "限時動態和私訊";
+"SECURITY" = "安全設定";
+
+/* Feed */
+"Hide Ads" = "去廣告";
+"Remove all Ads from Instagram app" = "移除應用程式內的廣告";
+"No suggested post" = "無推薦貼文";
+"Remove suggested posts from the feed" = "從動態中移除推薦貼文";
+"Show Like count" = "顯示按讚數";
+"Show like count in the post" = "強制顯示貼文的按讚";
+"Confirm like" = "確認按讚";
+"Show alert when you click the like button to confirm the like" = "按讚時顯示確認視窗";
+"Copy description" = "複製貼文說明";
+"Copy the post description by long press" = "長按複製貼文說明";
+
+/* Save Media */
+"Download Videos" = "下載影片";
+"Download Videos by log press in any video you want." = "長按任何您想要的影片進行下載";
+"Save profile image" = "下載個人檔案照片";
+"Save profile image by long press." = "長按下載個人檔案照片";
+
+/* Story And Direct */
+"Keep deleted message" = "保留已刪除訊息";
+"Keep deleted direct message on the chat." = "在對話中保留已刪除的訊息";
+"Remove last seen" = "沒有已讀";
+"Remove last seen from the chat" = "對方不會看見你已讀";
+"Remove screenshot alert" = "停用截圖提醒";
+"Unlimited replay of once story" = "無限重覆播放";
+"Unlimited replay of once story in direct chat" = "允許無限重覆播放";
+"Disable Story Seen Receipt" = "匿名觀看限時動態";
+
+/* Security */
+"Padlock" = "密碼鎖";
+"Lock Instagram with passcode" = "使用密碼鎖保護 Instagram";
+
+/* Developer */
+"Tip Jar" = "打賞";
+"Donate Via Paypal" = "透過PayPal贊助";
+
+/* Pop-ups And Other Stuff */
+"BHInsta settings" = "BHInsta 設定";
+"BHInsta, Hi" = "選擇您的操作";
+"Are you sure?" = "您確定嗎?";
+"Yes" = "是";
+"NO" = "否";
+"Cancel" = "取消";
+"Download HD Profile Picture" = "下載高清個人檔案照片";
+"Download Image - link 1 (HD)" = "下載圖片 - 連結 1 (高清)";
+"Download Image - link 2 (SD)" = "下載圖片 - 連結 2 (標準)";
+"Download video - link 1 (HD)" = "下載影片 - 連結 1 (高清)";
+"Download video - link 2 (SD)" = "下載影片 - 連結 2 (標準)";
+"Download Photo" = "下載照片";
+"Mark as Seen" = "標記為已看過";
+"Downloading" = "下載中...";
